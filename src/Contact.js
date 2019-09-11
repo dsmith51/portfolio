@@ -41,7 +41,7 @@ export const Contact = () => (
             <a href="http://www.facebook.com/danielsmith51" className="mx-2">
               <i className="fab fa-facebook-f" />
             </a>
-            <a href="#" className="mx-2">
+            <a href="http://www.github.com/dsmith51" className="mx-2">
               <i className="fab fa-github" />
             </a>
           </div>

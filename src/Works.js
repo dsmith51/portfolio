@@ -1,6 +1,6 @@
 import React from 'react';
 import bit from './assets/bitmoji1.png'
-import wormhole from './assets/https _blogs-images.forbes.com_quora_files_2016_02_6914441342_775b4ab9a7_o.jpg'
+
 
 export const Works = () => (
     <section id="projects" className="projects-section bg-light">
@@ -20,7 +20,7 @@ export const Works = () => (
             {/* Project One Row */}
             <div className="row justify-content-center no-gutters mb-5 mb-lg-0">
                 <div className="col-lg-6">
-                    <img className="img-fluid" src={wormhole} alt=""/>
+                    <iframe title="Stock Prices" src="http://localhost:8050" width="550" height="350"/>
                 </div>
                 <div className="col-lg-6">
                     <div className="bg-black text-center h-100 project">
